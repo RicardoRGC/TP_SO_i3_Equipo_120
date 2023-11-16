@@ -46,3 +46,44 @@ Adaptador de Ethernet Conexión de red Bluetooth:
    Sufijo DNS específico para la conexión. . :
 
 hora 9:10
+
+Ezequiel Ibañez
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . : home
+   Dirección IPv6 . . . . . . . . . . : 2800:810:5e8:1d23:6e:9081:35bb:b97d
+   Dirección IPv6 . . . . . . . . . . : 2800:810:5e8:1d23:f0ad:bba5:8d96:95ff
+   Dirección IPv6 . . . . . . . . . . : fdaa:bbcc:ddee:0:d192:60b8:e199:4b05
+   Dirección IPv6 temporal. . . . . . : 2800:810:5e8:1d23:3cc5:1a4:44e1:e9b5
+   Dirección IPv6 temporal. . . . . . : fdaa:bbcc:ddee:0:3cc5:1a4:44e1:e9b5
+   Vínculo: dirección IPv6 local. . . : fe80::6721:c969:ada0:169c%18
+   Dirección IPv4. . . . . . . . . . . . . . : 193.123.0.34
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::4e19:5dff:fef0:7758%18
+                                       123.154.0.2
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::be82:4aa6:3701:d0c0%10
+   Dirección IPv4. . . . . . . . . . . . . . : 134.121.45.2
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de LAN inalámbrica Wi-Fi:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Conexión de área local* 1:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Conexión de área local* 10:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Hora: 07:13 pm
