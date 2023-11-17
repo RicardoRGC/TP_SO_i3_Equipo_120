@@ -2,113 +2,113 @@ Gonzalez Ricardo
 
 Adaptador de Ethernet Ethernet:
 
-   Sufijo DNS espec铆fico para la conexi贸n. . :
-   Direcci贸n IPv6 . . . . . . . . . . : 2803:9800:a036:8961:fee1:dcf8:b784:e8c
-   Direcci贸n IPv6 temporal. . . . . . : 2803:9800:a036:8961:402d:a292:de1d:2207
-   Direcci贸n IPv6 temporal. . . . . . : 2803:9800:a036:8961:405a:ee6b:991f:57ce
-   Direcci贸n IPv6 temporal. . . . . . : 2803:9800:a036:8961:4d38:7fa:bf36:7ffb
-   Direcci贸n IPv6 temporal. . . . . . : 2803:9800:a036:8961:603e:b582:44d5:4ec2
-   Direcci贸n IPv6 temporal. . . . . . : 2803:9800:a036:8961:b1d4:4a3d:aded:b050
-   Direcci贸n IPv6 temporal. . . . . . : 2803:9800:a036:8961:c922:6b0c:efd8:4714
-   V铆nculo: direcci贸n IPv6 local. . . : fe80::b1cc:8918:e60b:b458%5
-   Direcci贸n IPv4. . . . . . . . . . . . . . : 192.168.100.33
-   M谩scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Sufijo DNS espec韋ico para la conexi髇. . :
+   Direcci髇 IPv6 . . . . . . . . . . : 2803:9800:a036:8961:fee1:dcf8:b784:e8c
+   Direcci髇 IPv6 temporal. . . . . . : 2803:9800:a036:8961:402d:a292:de1d:2207
+   Direcci髇 IPv6 temporal. . . . . . : 2803:9800:a036:8961:405a:ee6b:991f:57ce
+   Direcci髇 IPv6 temporal. . . . . . : 2803:9800:a036:8961:4d38:7fa:bf36:7ffb
+   Direcci髇 IPv6 temporal. . . . . . : 2803:9800:a036:8961:603e:b582:44d5:4ec2
+   Direcci髇 IPv6 temporal. . . . . . : 2803:9800:a036:8961:b1d4:4a3d:aded:b050
+   Direcci髇 IPv6 temporal. . . . . . : 2803:9800:a036:8961:c922:6b0c:efd8:4714
+   V韓culo: direcci髇 IPv6 local. . . : fe80::b1cc:8918:e60b:b458%5
+   Direcci髇 IPv4. . . . . . . . . . . . . . : 192.168.100.33
+   M醩cara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . : fe80::1%5
                                        192.168.100.1
 
 Adaptador de Ethernet VirtualBox Host-Only Network:
 
-   Sufijo DNS espec铆fico para la conexi贸n. . :
-   V铆nculo: direcci贸n IPv6 local. . . : fe80::1d23:c48f:ef37:cbec%16
-   Direcci贸n IPv4. . . . . . . . . . . . . . : 192.168.56.1
-   M谩scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Sufijo DNS espec韋ico para la conexi髇. . :
+   V韓culo: direcci髇 IPv6 local. . . : fe80::1d23:c48f:ef37:cbec%16
+   Direcci髇 IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M醩cara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . :
 
 Adaptador de Ethernet VMware Network Adapter VMnet1:
 
-   Sufijo DNS espec铆fico para la conexi贸n. . :
-   V铆nculo: direcci贸n IPv6 local. . . : fe80::2b8b:c5e4:9a3e:810e%30
-   Direcci贸n IPv4. . . . . . . . . . . . . . : 192.168.8.1
-   M谩scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Sufijo DNS espec韋ico para la conexi贸n. . :
+   V韈ulo: direcci髇 IPv6 local. . . : fe80::2b8b:c5e4:9a3e:810e%30
+   Direcci髇 IPv4. . . . . . . . . . . . . . : 192.168.8.1
+   M醩cara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . :
 
 Adaptador de Ethernet VMware Network Adapter VMnet8:
 
-   Sufijo DNS espec铆fico para la conexi贸n. . :
-   V铆nculo: direcci贸n IPv6 local. . . : fe80::7c40:476:fcab:855c%31
-   Direcci贸n IPv4. . . . . . . . . . . . . . : 192.168.124.1
-   M谩scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Sufijo DNS espec韋ico para la conexi髇. . :
+   V韓culo: direcci髇 IPv6 local. . . : fe80::7c40:476:fcab:855c%31
+   Direcci髇 IPv4. . . . . . . . . . . . . . : 192.168.124.1
+   M醩cara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . :
 
-Adaptador de Ethernet Conexi贸n de red Bluetooth:
+Adaptador de Ethernet Conexi髇 de red Bluetooth:
 
    Estado de los medios. . . . . . . . . . . : medios desconectados
-   Sufijo DNS espec铆fico para la conexi贸n. . :
+   Sufijo DNS espec韋ico para la conexi髇. . :
 
 hora 9:10
 
-Ezequiel Iba帽ez
+Ezequiel Iba馿z
 
 Adaptador de Ethernet Ethernet:
 
-   Sufijo DNS espec铆fico para la conexi贸n. . : home
-   Direcci贸n IPv6 . . . . . . . . . . : 2800:810:5e8:1d23:6e:9081:35bb:b97d
-   Direcci贸n IPv6 . . . . . . . . . . : 2800:810:5e8:1d23:f0ad:bba5:8d96:95ff
-   Direcci贸n IPv6 . . . . . . . . . . : fdaa:bbcc:ddee:0:d192:60b8:e199:4b05
-   Direcci贸n IPv6 temporal. . . . . . : 2800:810:5e8:1d23:3cc5:1a4:44e1:e9b5
-   Direcci贸n IPv6 temporal. . . . . . : fdaa:bbcc:ddee:0:3cc5:1a4:44e1:e9b5
-   V铆nculo: direcci贸n IPv6 local. . . : fe80::6721:c969:ada0:169c%18
-   Direcci贸n IPv4. . . . . . . . . . . . . . : 193.123.0.34
-   M谩scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Sufijo DNS espec韋ico para la conexi髇. . : home
+   Direcci髇 IPv6 . . . . . . . . . . : 2800:810:5e8:1d23:6e:9081:35bb:b97d
+   Direcci髇 IPv6 . . . . . . . . . . : 2800:810:5e8:1d23:f0ad:bba5:8d96:95ff
+   Direcci髇 IPv6 . . . . . . . . . . : fdaa:bbcc:ddee:0:d192:60b8:e199:4b05
+   Direcci髇 IPv6 temporal. . . . . . : 2800:810:5e8:1d23:3cc5:1a4:44e1:e9b5
+   Direcci髇 IPv6 temporal. . . . . . : fdaa:bbcc:ddee:0:3cc5:1a4:44e1:e9b5
+   V韓culo: direcci髇 IPv6 local. . . : fe80::6721:c969:ada0:169c%18
+   Direcci髇 IPv4. . . . . . . . . . . . . . : 193.123.0.34
+   M醩cara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . : fe80::4e19:5dff:fef0:7758%18
                                        123.154.0.2
 
 Adaptador de Ethernet Ethernet 2:
 
-   Sufijo DNS espec铆fico para la conexi贸n. . :
-   V铆nculo: direcci贸n IPv6 local. . . : fe80::be82:4aa6:3701:d0c0%10
-   Direcci贸n IPv4. . . . . . . . . . . . . . : 134.121.45.2
-   M谩scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Sufijo DNS espec韋ico para la conexi髇. . :
+   V韓culo: direcci髇 IPv6 local. . . : fe80::be82:4aa6:3701:d0c0%10
+   Direcci髇 IPv4. . . . . . . . . . . . . . : 134.121.45.2
+   M醩cara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . :
 
 Adaptador de LAN inal谩mbrica Wi-Fi:
 
    Estado de los medios. . . . . . . . . . . : medios desconectados
-   Sufijo DNS espec铆fico para la conexi贸n. . :
+   Sufijo DNS espec韋ico para la conexi髇. . :
 
-Adaptador de LAN inal谩mbrica Conexi贸n de 谩rea local* 1:
-
-   Estado de los medios. . . . . . . . . . . : medios desconectados
-   Sufijo DNS espec铆fico para la conexi贸n. . :
-
-Adaptador de LAN inal谩mbrica Conexi贸n de 谩rea local* 10:
+Adaptador de LAN inal醡brica Conexi髇 de 羠ea local* 1:
 
    Estado de los medios. . . . . . . . . . . : medios desconectados
-   Sufijo DNS espec铆fico para la conexi贸n. . :
+   Sufijo DNS espec韋ico para la conexi髇. . :
+
+Adaptador de LAN inal醡brica Conexi髇 de 谩rea local* 10:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec韋ico para la conexi髇. . :
 
 Hora: 07:13 pm
 
-Videla Ribodino Iv谩n Agust铆n
+Videla Ribodino Iv醤 Agust韓
 
 Adaptador de Ethernet Ethernet 2:
 
-   Sufijo DNS especico para la conexi. . : 
-   Vculo: direcci IPv6 local. . . : fe80::1a92:d717:dff3:b890%12
-   Direcci IPv4. . . . . . . . . . . . . . : 192.168.56.1
-   M爏cara de subred . . . . . . . . . . . . : 255.255.255.0
+   Sufijo DNS espec韋ico para la conexi髇. . : 
+   Vculo: direcci髇 IPv6 local. . . : fe80::1a92:d717:dff3:b890%12
+   Direcci髇 IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M醩cara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . : 
 
-Adaptador desconocido Conexi de 爎ea local:
+Adaptador desconocido Conexi髇 de 爎ea local:
 
    Estado de los medios. . . . . . . . . . . : medios desconectados
-   Sufijo DNS especico para la conexi. . : 
+   Sufijo DNS espec韋ico para la conexi髇. . : 
 
 Adaptador de Ethernet Ethernet:
 
-   Sufijo DNS especico para la conexi. . : 
-   Vculo: direcci IPv6 local. . . : fe80::1545:e5aa:7686:b56d%5
-   Direcci IPv4. . . . . . . . . . . . . . : 192.168.0.101
-   M爏cara de subred . . . . . . . . . . . . : 255.255.255.0
+   Sufijo DNS espec韋ico para la conexi髇. . : 
+   V韓culo: direcci髇 IPv6 local. . . : fe80::1545:e5aa:7686:b56d%5
+   Direcci髇 IPv4. . . . . . . . . . . . . . : 192.168.0.101
+   M醩cara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . : 192.168.0.1
 
 Hora: 11:41
