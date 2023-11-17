@@ -1,6 +1,6 @@
 Gonzalez Ricardo
 Videla Iván 
-Ibañes Ezequiel
+Ibañez Ezequiel
 
  a-¿Como queda El master después de estos cambios?
 Después de estos cambios, el estado de la rama master es el siguiente:
@@ -11,6 +11,22 @@ En el momento del merge, Beta fue notificado de las modificaciones que se iban a
 
 c-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merge ?
 1° Asegurarse de estar en la rama main con el comando: git checkout main.
-2° Realizar el merge con la rama creada por Gamma (ibanes) mediante: git merge ibanes.
+2° Realizar el merge con la rama creada por Gamma (ibanez) mediante: git merge ibanez.
 3° Subir los cambios a la rama main en el repositorio remoto con: git push origin main.
 
+
+
+
+d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
+No quedaran actualizados ya que no se ha hecho un merge a sus respectivas ramas, quedando por ejemplo el archivo beta.txt incompleto
+
+e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
+En este caso a la hora del merge no hubo ningun incoveniente.
+
+f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+Lo que hice fue primero hacer git checkout gonzalez, para cambiar la rama de donde traere los datos
+git pull origin gonzalez, para traer los archivos mas recientes.
+echo "Nombre: Ezequiel Ibañez\nIP: $(ipconfig)\nHora: $(date)" >> beta.txt, para generar los datos.
+git add ., para guardar los nuevos cambios.
+git commit -m "nombre", para importar los cambios.
+y finalmente git push origin gonzalez para subir los cambios al repositorio.
