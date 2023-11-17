@@ -1,0 +1,16 @@
+Gonzalez Ricardo
+Videla Iván 
+Ibañes Ezequiel
+
+ a-¿Como queda El master después de estos cambios?
+Después de estos cambios, el estado de la rama master es el siguiente:
+ nuestra raíz es 'main', y todas las modificaciones realizadas en las otras ramas se han fusionado en 'main'.
+ 
+b-¿Beta pudo ver todos los cambios que se realizaron? 
+En el momento del merge, Beta fue notificado de las modificaciones que se iban a llevar a cabo en la rama main.
+
+c-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merge ?
+1° Asegurarse de estar en la rama main con el comando: git checkout main.
+2° Realizar el merge con la rama creada por Gamma (ibanes) mediante: git merge ibanes.
+3° Subir los cambios a la rama main en el repositorio remoto con: git push origin main.
+
