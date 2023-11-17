@@ -87,3 +87,28 @@ Adaptador de LAN inal√°mbrica Conexi√≥n de √°rea local* 10:
    Sufijo DNS espec√≠fico para la conexi√≥n. . :
 
 Hora: 07:13 pm
+
+Videla Ribodino Iv√°n Agust√≠n
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS espec°fico para la conexi¢n. . : 
+   V°nculo: direcci¢n IPv6 local. . . : fe80::1a92:d717:dff3:b890%12
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M†scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador desconocido Conexi¢n de †rea local:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec°fico para la conexi¢n. . : 
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS espec°fico para la conexi¢n. . : 
+   V°nculo: direcci¢n IPv6 local. . . : fe80::1545:e5aa:7686:b56d%5
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.0.101
+   M†scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.0.1
+
+Hora: 11:41
