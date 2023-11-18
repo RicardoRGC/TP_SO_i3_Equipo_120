@@ -30,3 +30,11 @@ echo "Nombre: Ezequiel Ibañez\nIP: $(ipconfig)\nHora: $(date)" >> beta.txt, par
 git add ., para guardar los nuevos cambios.
 git commit -m "nombre", para importar los cambios.
 y finalmente git push origin gonzalez para subir los cambios al repositorio.
+
+g - 
+- git pull gonzalez
+- git checkout gonzalez
+- echo -e "\n\nVidela Ribodino Iván Agustín\n\n$(ipconfig)\n\nHora: $(date +%H:%M)" >> beta.txt
+- git add . 
+- git commit -m "Modifico beta.txt (nombre, ifconfig, hora) ALFA"
+- git push origin gonzalez
